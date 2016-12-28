@@ -6,6 +6,14 @@ Multichar_Symbols
 %<n%>  ! Noun
 %<pl%> ! Plural
 %<sg%> ! Singular
+%<aa%> ! Animate
+%<nn%> ! Inanimate
+%<np%> ! Proper noun
+%<ant%> ! Anthroponym
+%<loc%> ! Location
+%<vblex%> ! Verb
+
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
